@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.annotation.Resource;
 
 /**
+ * 测试Controller
  * Created by wangwei on 2018/4/5.
  */
 @RestController
